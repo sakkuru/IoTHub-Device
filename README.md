@@ -1,5 +1,5 @@
 
-# IoT Hub messaging app
+# IoT Hub Device app
 
 * Receive message from IoT Hub
 * Receive Device Twin desired properties
